@@ -4,3 +4,48 @@
 [submodule "docs/vega.wiki"]
 	path = docs/vega.wiki
 	url = https://github.com/trifacta/vega.wiki.git
+[submodule "Chartbuilder"]
+	path = Chartbuilder
+	url = https://github.com/Quartz/Chartbuilder.git
+[submodule "docs/Chartbuilder.wiki"]
+	path = docs/Chartbuilder.wiki
+	url = https://github.com/Quartz/Chartbuilder.wiki.git
+[submodule "d3.chart"]
+	path = d3.chart
+	url = https://github.com/misoproject/d3.chart.git
+[submodule "docs/d3.chart.wiki"]
+	path = docs/d3.chart.wiki
+	url = https://github.com/misoproject/d3.chart.wiki.git
+[submodule "dailygraphics"]
+	path = dailygraphics
+	url = https://github.com/nprapps/dailygraphics.git
+[submodule "datawrapper"]
+	path = datawrapper
+	url = https://github.com/datawrapper/datawrapper.git
+[submodule "lyra"]
+	path = lyra
+	url = https://github.com/uwdata/lyra.git
+[submodule "nvd3"]
+	path = nvd3
+	url = https://github.com/novus/nvd3.git
+[submodule "raw"]
+	path = raw
+	url = https://github.com/densitydesign/raw.git
+[submodule "vega"]
+	path = vega
+	url = https://github.com/trifacta/vega.git
+[submodule "docs/datawrapper.wiki"]
+	path = docs/datawrapper.wiki
+	url = https://github.com/datawrapper/datawrapper.wiki.git
+[submodule "docs/lyra.wiki"]
+	path = docs/lyra.wiki
+	url = https://github.com/uwdata/lyra.wiki.git
+[submodule "docs/nvd3.wiki"]
+	path = docs/nvd3.wiki
+	url = https://github.com/novus/nvd3.wiki.git
+[submodule "docs/raw.wiki"]
+	path = docs/raw.wiki
+	url = https://github.com/densitydesign/raw.wiki.git
+[submodule "highcharts.com"]
+	path = highcharts.com
+	url = https://github.com/highslide-software/highcharts.com.git
