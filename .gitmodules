@@ -1,3 +1,6 @@
 [submodule "rickshaw"]
 	path = rickshaw
 	url = https://github.com/shutterstock/rickshaw.git
+[submodule "docs/vega.wiki"]
+	path = docs/vega.wiki
+	url = https://github.com/trifacta/vega.wiki.git
