@@ -46,6 +46,14 @@ A charting framework that is in a sense a refactor of d3, with the specific goal
 
 While nvd3 requires writing code to build graphics, it's a pretty minimal amount of code to produce a basic chart. Uses d3 syntax for setting options, but handles much of the charting framework. [A bar chart example](https://github.com/novus/nvd3/blob/master/examples/discreteBarChart.html) *Note: currently in the middle of a major refactor.*
 
+####dc.js####
+- [github repo](https://github.com/dc-js/dc.js)
+- [project page](http://dc-js.github.io/dc.js/)
+
+Browser/mobile friendly  multi-dimensional charting library with native [crossfilter](http://square.github.io/crossfilter/) support; allowing exploration on large multi-dimensional datasets (inspired by crossfilter's demo). dc.js leverages d3 engine to render charts in css-friendly svg format.
+
+
+
 ####rickshaw####
 - [github repo](https://github.com/shutterstock/rickshaw)
 - [project page](http://code.shutterstock.com/rickshaw/)
