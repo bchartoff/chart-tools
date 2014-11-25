@@ -52,3 +52,6 @@
 [submodule "c3.js"]
 	path = c3.js
 	url = https://github.com/masayuki0812/c3
+[submodule "charted"]
+	path = charted
+	url = https://github.com/mikesall/charted

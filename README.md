@@ -32,6 +32,12 @@ An in-browswer tool that handles a few steps such as user accounts, saving graph
 
 A full pipeline of data manipulation/ graph creation/ export without needing to write code. The goal is to be extremely customizable by marking arbitrary marks/ visual elements to data, but it means that there's a steep learning curve. Jim Vallandingham's [let's make a bar chart in Lyra](http://vallandingham.me/make_a_barchart_with_lyra.html) is a great place to start.
 
+####Charted####
+- [github repo](https://github.com/mikesall/charted)
+- [project page](http://www.charted.co/)
+
+Charted is a tool that automatically visualizes data, created by the Product Science team at Medium. Give it the link to a data file and Charted returns a beautiful, shareable visualization of that data.
+
 ##Code based tools##
 
 ####d3.chart####
