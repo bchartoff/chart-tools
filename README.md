@@ -21,6 +21,12 @@ Any of these tools could be used out-of-the-box in your newsroom, or modified to
 
 One of the easier tools to use, builds bar and line charts in browser. Needs only means to run local server (e.g.[python simpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html) or [node http-server](https://github.com/nodeapps/http-server)). Built in D3, static output. See also [NPR's fork](https://github.com/nprapps/Chartbuilder).
 
+####Datamatic.io####
+- [gui](http://datamatic.io/)
+- [tutorial](https://medium.com/@DatamaticIO/how-to-make-an-interactive-d3-js-visualization-using-datamatic-io-3c0663040eff)
+
+Datamatic is a visualization generator based on the d3.js library and ported from google sheets data.
+
 ####Datawrapper####
 - [github repo](https://github.com/datawrapper/datawrapper)
 - [project page](https://datawrapper.de/)
@@ -57,7 +63,6 @@ While nvd3 requires writing code to build graphics, it's a pretty minimal amount
 - [project page](http://dc-js.github.io/dc.js/)
 
 Browser/mobile friendly  multi-dimensional charting library with native [crossfilter](http://square.github.io/crossfilter/) support; allowing exploration on large multi-dimensional datasets (inspired by crossfilter's demo). dc.js leverages d3 engine to render charts in css-friendly svg format.
-
 
 
 ####rickshaw####
