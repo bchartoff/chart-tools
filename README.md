@@ -44,6 +44,10 @@ A full pipeline of data manipulation/ graph creation/ export without needing to 
 
 Charted is a tool that automatically visualizes data, created by the Product Science team at Medium. Give it the link to a data file and Charted returns a beautiful, shareable visualization of that data.
 
+####TinyChart####
+- [project page](http://tinychart.co/)
+Tiny Chart allows you to load data as a table or json and visualize/export as a quick and simple chart. It's an anomaly on this page as it's not (yet) open source, but it is free to use in the in-browser gui.
+
 ##Code based tools##
 
 ####d3.chart####
