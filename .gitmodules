@@ -58,3 +58,6 @@
 [submodule "bokeh"]
 	path = bokeh
 	url = git@github.com:bokeh/bokeh.git
+[submodule "ggplot"]
+	path = ggplot
+	url = git@github.com:yhat/ggplot.git
