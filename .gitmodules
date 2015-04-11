@@ -64,3 +64,6 @@
 [submodule "seaborn"]
 	path = seaborn
 	url = git@github.com:mwaskom/seaborn.git
+[submodule "networkx"]
+	path = networkx
+	url = git@github.com:networkx/networkx.git
