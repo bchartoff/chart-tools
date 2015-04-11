@@ -61,3 +61,6 @@
 [submodule "ggplot"]
 	path = ggplot
 	url = git@github.com:yhat/ggplot.git
+[submodule "seaborn"]
+	path = seaborn
+	url = git@github.com:mwaskom/seaborn.git
