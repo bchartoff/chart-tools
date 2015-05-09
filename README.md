@@ -94,6 +94,11 @@ Built in native JS (not d3), but similar to above projects, in that it requires 
 
 An interesting example of a charting tool implemented within a newsroom, start to finish (pulling data from google spreadsheets, deploy to s3, embed in responsive iframe). Included not because of the charts themselves, but the context surrounding them. Run from the command line, using fabric.
 
+## Other resources ##
+
+####Listing of chart tools
+[Sitepoint round-up](http://www.sitepoint.com/15-best-javascript-charting-libraries/)
+
 
 
 
