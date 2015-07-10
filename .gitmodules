@@ -67,3 +67,6 @@
 [submodule "networkx"]
 	path = networkx
 	url = git@github.com:networkx/networkx.git
+[submodule "WebCola"]
+	path = WebCola
+	url = git@github.com:tgdwyer/WebCola.git
