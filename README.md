@@ -68,6 +68,11 @@ While nvd3 requires writing code to build graphics, it's a pretty minimal amount
 
 Browser/mobile friendly  multi-dimensional charting library with native [crossfilter](http://square.github.io/crossfilter/) support; allowing exploration on large multi-dimensional datasets (inspired by crossfilter's demo). dc.js leverages d3 engine to render charts in css-friendly svg format.
 
+####cola.js####
+- [github repo](https://github.com/tgdwyer/WebCola)
+- [project page](http://marvl.infotech.monash.edu/webcola/)
+
+Cola advertises as a "constraint based layout in the browser," or an open source javascript library that handles force layouts (from D3 or other), more elegantly accommodating constraing optimizations.
 
 ####rickshaw####
 - [github repo](https://github.com/shutterstock/rickshaw)
