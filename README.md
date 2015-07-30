@@ -80,6 +80,12 @@ Cola advertises as a "constraint based layout in the browser," or an open source
 
 Similar to nvd3 in that it requires a small amount of code to build complex graphics. Less tightly tied to d3 syntax than nvd3, and more of a focus on interactive graphics. Various features such as streaming data supported via plugins.
 
+####tau####
+- [github repo](https://github.com/TargetProcess/tauCharts)
+- [project page](http://blog.taucharts.com/taucharts-data-focused-charting-library/)
+
+A free, open source, "data friendly" library for charting. Similar to Vega's Visual grammar, they describe the API simply as such: "Taucharts DSL describes composition of graphical components and mapping of data variables (columns) to the scales and components properties." They also have a package of plugins to make it easier to process.
+
 ####vega####
 - [github repo](https://github.com/trifacta/vega)
 - [project page](http://trifacta.github.io/vega/)
@@ -103,9 +109,6 @@ An interesting example of a charting tool implemented within a newsroom, start t
 
 ####Listing of chart tools
 [Sitepoint round-up](http://www.sitepoint.com/15-best-javascript-charting-libraries/)
-
-
-
 
 
 
