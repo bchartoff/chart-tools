@@ -73,3 +73,6 @@
 [submodule "tauCharts"]
 	path = tauCharts
 	url = https://github.com/TargetProcess/tauCharts.git
+[submodule "d3.compose"]
+	path = d3.compose
+	url = git@github.com:CSNW/d3.compose.git
