@@ -44,6 +44,10 @@ A full pipeline of data manipulation/ graph creation/ export without needing to 
 
 Charted is a tool that automatically visualizes data, created by the Product Science team at Medium. Give it the link to a data file and Charted returns a beautiful, shareable visualization of that data.
 
+####TinyChart####
+- [project page](http://tinychart.co/)
+Tiny Chart allows you to load data as a table or json and visualize/export as a quick and simple chart. It's an anomaly on this page as it's not (yet) open source, but it is free to use in the in-browser gui.
+
 ##Code based tools##
 
 ####d3.chart####
@@ -64,12 +68,23 @@ While nvd3 requires writing code to build graphics, it's a pretty minimal amount
 
 Browser/mobile friendly  multi-dimensional charting library with native [crossfilter](http://square.github.io/crossfilter/) support; allowing exploration on large multi-dimensional datasets (inspired by crossfilter's demo). dc.js leverages d3 engine to render charts in css-friendly svg format.
 
+####cola.js####
+- [github repo](https://github.com/tgdwyer/WebCola)
+- [project page](http://marvl.infotech.monash.edu/webcola/)
+
+Cola advertises as a "constraint based layout in the browser," or an open source javascript library that handles force layouts (from D3 or other), more elegantly accommodating constraing optimizations.
 
 ####rickshaw####
 - [github repo](https://github.com/shutterstock/rickshaw)
 - [project page](http://code.shutterstock.com/rickshaw/)
 
 Similar to nvd3 in that it requires a small amount of code to build complex graphics. Less tightly tied to d3 syntax than nvd3, and more of a focus on interactive graphics. Various features such as streaming data supported via plugins.
+
+####tau####
+- [github repo](https://github.com/TargetProcess/tauCharts)
+- [project page](http://blog.taucharts.com/taucharts-data-focused-charting-library/)
+
+A free, open source, "data friendly" library for charting. Similar to Vega's Visual grammar, they describe the API simply as such: "Taucharts DSL describes composition of graphical components and mapping of data variables (columns) to the scales and components properties." They also have a package of plugins to make it easier to process.
 
 ####vega####
 - [github repo](https://github.com/trifacta/vega)
@@ -90,8 +105,10 @@ Built in native JS (not d3), but similar to above projects, in that it requires 
 
 An interesting example of a charting tool implemented within a newsroom, start to finish (pulling data from google spreadsheets, deploy to s3, embed in responsive iframe). Included not because of the charts themselves, but the context surrounding them. Run from the command line, using fabric.
 
+## Other resources ##
 
-
+####Listing of chart tools
+[Sitepoint round-up](http://www.sitepoint.com/15-best-javascript-charting-libraries/)
 
 
 

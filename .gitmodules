@@ -55,3 +55,24 @@
 [submodule "charted"]
 	path = charted
 	url = https://github.com/mikesall/charted
+[submodule "bokeh"]
+	path = bokeh
+	url = git@github.com:bokeh/bokeh.git
+[submodule "ggplot"]
+	path = ggplot
+	url = git@github.com:yhat/ggplot.git
+[submodule "seaborn"]
+	path = seaborn
+	url = git@github.com:mwaskom/seaborn.git
+[submodule "networkx"]
+	path = networkx
+	url = git@github.com:networkx/networkx.git
+[submodule "WebCola"]
+	path = WebCola
+	url = git@github.com:tgdwyer/WebCola.git
+[submodule "tauCharts"]
+	path = tauCharts
+	url = https://github.com/TargetProcess/tauCharts.git
+[submodule "d3.compose"]
+	path = d3.compose
+	url = git@github.com:CSNW/d3.compose.git
